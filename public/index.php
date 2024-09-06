@@ -17,7 +17,7 @@
 <section class="welcome-section">
     <div class="container">
         <h1>Welcome to Childcare_Connect</h1>
-        <p>Your trusted platform to connect with reliable childcare providers.</p>
+        <p>Your trusted platform to connect with reliable childcare providers</p>
         <div class="action-buttons">
             <a href="login.php" class="btn">Login</a>
             <a href="register.php" class="btn">Register</a>
